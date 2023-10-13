@@ -1,6 +1,8 @@
-### Hi there 👋
+# SEMAFOX
+We are a small information technologie company in the northern suburb of Baltimore, Maryland. We have been serving small businesses and educational institutions in North America and Europe since 2002.
 
 <!--
+### Hi there 👋
 **semafox/Semafox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
